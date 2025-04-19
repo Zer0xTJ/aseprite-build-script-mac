@@ -18,7 +18,6 @@ both the Aseprite source code and a pre-built package of Skia then run the build
 * The latest version of [Cmake](https://cmake.org) (3.16 or greater)
 * [Curl](https://curl.se/) (Bundled with macOS)
 * [Ninja](https://ninja-build.org/) build system
-* Minimum [Xcode 13.1](https://apps.apple.com/us/app/xcode/id497799835?mt=12) and macOS 11.3 SDK
 * Installing [Homebrew](<https://homebrew.sh/>) is recommended to install several dependencies:
 
          brew install ninja cmake
