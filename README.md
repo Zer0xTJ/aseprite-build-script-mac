@@ -1,5 +1,7 @@
 # Aseprite-Build-Script-Mac
 
+
+
 **Created by [Chasnah](https://chasnah.com/)**
 
 ## A customizable, automated macOS Zsh script for easily compiling Aseprite
@@ -24,6 +26,8 @@ both the Aseprite source code and a pre-built package of Skia then run the build
 * Note that Homebrew requires Xcode's Command Line Tools which can be installed with the following command:
 
          xcode-select --install
+* Follow these steps:
+https://github.com/aseprite/aseprite/issues/5131#issuecomment-2816593408
 
 ## Explanation of Paths
 
